@@ -1,4 +1,4 @@
-#Daily Coding Problem [372] Easy
+# Daily Coding Problem [372] Easy
 
 Good morning! Here's your coding interview problem for today.
 
